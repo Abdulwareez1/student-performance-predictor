@@ -1,15 +1,6 @@
-<<<<<<< Updated upstream
 flask
 pandas
 scikit-learn
 joblib
 reportlab
 numpy
-=======
-flask
-pandas
-scikit-learn
-joblib
-reportlab
-numpy
->>>>>>> Stashed changes
